@@ -60,16 +60,6 @@
               {
                 "dock_id": 4,
                 "height": 310.0,
-                "position_x": 1190.0,
-                "position_y": 26.0,
-                "selected_in_dock": false,
-                "title": "Environments",
-                "visible": true,
-                "width": 1238.0
-              },
-              {
-                "dock_id": 4,
-                "height": 310.0,
                 "position_x": 600.0,
                 "position_y": 100.0,
                 "selected_in_dock": false,
@@ -84,18 +74,6 @@
                 "position_y": 545.0,
                 "selected_in_dock": false,
                 "title": "Console",
-                "visible": true,
-                "width": 1238.0
-              },
-              {
-                "dock_id": 4,
-                "dock_tab_bar_enabled": true,
-                "dock_tab_bar_visible": true,
-                "height": 310.0,
-                "position_x": 0.0,
-                "position_y": 610.5,
-                "selected_in_dock": true,
-                "title": "Configurator Samples",
                 "visible": true,
                 "width": 1238.0
               }
@@ -140,18 +118,6 @@
                 "position_y": 60.0,
                 "selected_in_dock": false,
                 "title": "Render Settings",
-                "visible": true,
-                "width": 460.0
-              },
-              {
-                "dock_id": 7,
-                "dock_tab_bar_enabled": true,
-                "dock_tab_bar_visible": true,
-                "height": 498.0,
-                "position_x": 1399.5,
-                "position_y": 23.0,
-                "selected_in_dock": true,
-                "title": "Variant Presenter",
                 "visible": true,
                 "width": 460.0
               }
